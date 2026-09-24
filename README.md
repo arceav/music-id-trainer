@@ -37,4 +37,4 @@ The resulting programs are `dist/dark/mIDtdark.exe` and `dist/light/mIDtlight.ex
 
 ## question pack format
 
-app reads a version 1 JSON object with `format`, `version`, `title`, and `cards`. every card contains a recording `file` (including `.mp3`), a `start` time in seconds, `question`, five `choices`, a zero-based `answer` index, and an `explanation`. see [qpack.json](qpack.json) for complete examples. remember only recordings with matching filenames are included in listening-guide practice!
+app reads a version 1 JSON object with `format`, `version`, `title`, and `cards`. every card contains a recording `file` (including `.mp3`), a `start` time in seconds, `question`, five `choices`, a zero-based `answer` index, and an `explanation`. see [qpack.json](qpack.json) for complete examples. remember only recordings with matching filenames are included in listening-guide practice! i made this very easy to expand so mr thacker can lock in
