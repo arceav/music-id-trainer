@@ -9,7 +9,7 @@ choose the clip length, replay a clip, and see your score. no login or internet 
 
 ## download and play
 
-open **Releases** on this repository's GitHub page and download **mIDtdark.exe** (maroon theme with animated companion) or **mIDtlight.exe** (original Windows theme). theyre separate, single-file Windows x64 apps. you do not need to install .NET.
+open **Releases** on this repository's GitHub page and download **mIDtdark.exe** (maroon with twilight sparkle) or **mIDtlight.exe** (original Windows theme). theyre separate, single-file Windows x64 apps. you do not need to install .NET.
 
 download [qpack.json](qpack.json) from the repository, or use your own question pack. run either app, load the [MP3 recordings](https://drive.google.com/drive/u/0/folders/1F3jt0fHNH3tIe5bMJ4hF5EjAPXcarFNQ) (request access and i will grant you), and then load the question pack for **listening guide** mode. select the MP3s whose filenames match the `file` entries in your question pack. the included pack has 70 questions covering 14 pieces from the 2026–27 listening guides; you can use **identify pieces** without any pack. recordings are supplied by the user and stay on their computer.
 
