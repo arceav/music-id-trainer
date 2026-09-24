@@ -1,23 +1,27 @@
 # music id trainer
 
-A small, offline Windows app for practicing Academic Decathlon music. Load your own recordings, then practice in either mode:
+small, open-source, offline Windows app for practicing acadec music. load your own recordings, then practice in either mode:
 
 - **identify pieces:** hear an excerpt from a random recording and name the piece.
 - **listening guide:** hear an excerpt at a question's timestamp, then answer a multiple-choice question from a JSON pack.
 
-Choose the clip length, replay a clip, and see your score. The app needs no login or internet connection and does not include recordings.
+choose the clip length, replay a clip, and see your score. The app needs no login or internet connection and does not include recordings.
 
 ## download and play
 
-Open **Releases** on this repository's GitHub page and download **mIDtdark.exe** (maroon theme with animated companion) or **mIDtlight.exe** (original Windows theme). They are separate, single-file Windows x64 apps. You do not need to install .NET.
+open **Releases** on this repository's GitHub page and download **mIDtdark.exe** (maroon theme with animated companion) or **mIDtlight.exe** (original Windows theme). theyre separate, single-file Windows x64 apps. you do not need to install .NET.
 
-Download [qpack.json](qpack.json) from the repository, or use your own question pack. Run either app, load your MP3 recordings, and then load the question pack for **listening guide** mode. Select the MP3s whose filenames match the `file` entries in your question pack. The included pack has 70 questions covering 14 pieces from the 2026–27 listening guides; you can use **identify pieces** without any pack. Recordings are supplied by the user and stay on their computer.
+download [qpack.json](qpack.json) from the repository, or use your own question pack. run either app, load the MP3 recordings, and then load the question pack for **listening guide** mode. select the MP3s whose filenames match the `file` entries in your question pack. the included pack has 70 questions covering 14 pieces from the 2026–27 listening guides; you can use **identify pieces** without any pack. recordings are supplied by the user and stay on their computer.
 
-If Windows warns about an unrecognized app, that is because these community builds have not been code signed. The source for each executable is below.
+if Windows warns about an unrecognized app, thats cuz these community builds have not been code signed. the source for each executable is below.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## source and rebuilding
 
-The `dark/` and `light/` folders contain the complete C# source for each theme. The project uses Windows Forms for the interface and Windows media APIs for audio, without a browser engine or external NuGet packages. The dark version embeds `dark/Assets/companion.gif` in its executable.
+the `dark/` and `light/` folders contain the complete C# source for each theme. the project uses Windows Forms for the interface and Windows media APIs for audio, without a browser engine or external NuGet packages. the dark version embeds `dark/Assets/companion.gif` in its executable.
 
 Install the [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) on Windows. In PowerShell, run these commands from the repository's root:
 
