@@ -1,0 +1,1057 @@
+{
+  "format": "music-id-trainer",
+  "version": 1,
+  "title": "2026–27 Listening Guides — all 14 pieces",
+  "cards": [
+    {
+      "file": "Daisy Bell.mp3",
+      "start": 0,
+      "question": "Who composed the original song that this electronic arrangement adapts?",
+      "choices": [
+        "Harry Dacre",
+        "Malcolm Arnold",
+        "Billy Strayhorn",
+        "Charles Ives",
+        "Fanny Mendelssohn Hensel"
+      ],
+      "answer": 0,
+      "explanation": "The guide credits Harry Dacre for “Daisy Bell” (1892).",
+      "source": "2026–27 Music Resource Guide, p. 47"
+    },
+    {
+      "file": "Daisy Bell.mp3",
+      "start": 37,
+      "question": "Which beat placement changes the repeated instrumental chorus from a single line to an accompanied texture?",
+      "choices": [
+        "Accompaniment on beats 1 and 3",
+        "Chords only on the first beat",
+        "Accompaniment on beats 2 and 3",
+        "Accompaniment on beats 1 and 2",
+        "A counterline on every beat"
+      ],
+      "answer": 2,
+      "explanation": "The 0:37 entry adds accompaniment on beats 2 and 3, making the texture homophonic.",
+      "source": "2026–27 Music Resource Guide, p. 47"
+    },
+    {
+      "file": "Daisy Bell.mp3",
+      "start": 68,
+      "question": "Which voice leads this first verse, and how is the second synthetic voice used?",
+      "choices": [
+        "Cyber Diva sings alone until the chorus",
+        "Cyber Diva leads; vocoder doubles quietly",
+        "IBM 704 leads; Cyber Diva harmonizes",
+        "Vocoder leads; Cyber Diva doubles quietly",
+        "Vocoder and Cyber Diva trade phrases"
+      ],
+      "answer": 3,
+      "explanation": "At 1:08 the vocoder is most prominent; Vocaloid4 Cyber Diva quietly doubles it.",
+      "source": "2026–27 Music Resource Guide, p. 47"
+    },
+    {
+      "file": "Daisy Bell.mp3",
+      "start": 161,
+      "question": "What is the relationship between the two synthetic voices at this first shared chorus?",
+      "choices": [
+        "Cyber Diva harmonizes beneath IBM 704",
+        "They sing the melody in unison",
+        "They alternate whole phrases",
+        "IBM 704 sings only the accompaniment",
+        "Cyber Diva sings melody while IBM 704 answers"
+      ],
+      "answer": 1,
+      "explanation": "At 2:41 Cyber Diva and the IBM 704 voice form a unison duet; compare the later chorus.",
+      "source": "2026–27 Music Resource Guide, p. 48"
+    },
+    {
+      "file": "Daisy Bell.mp3",
+      "start": 223,
+      "question": "How does the final chorus change the relationship heard at 2:41?",
+      "choices": [
+        "Cyber Diva takes melody; IBM 704 falls silent",
+        "The voices alternate individual words",
+        "Both voices stop for an instrumental chorus",
+        "They continue in unison throughout",
+        "IBM 704 takes melody; Cyber Diva adds harmony"
+      ],
+      "answer": 4,
+      "explanation": "At 3:43 the guide assigns the melody to IBM 704 and a harmony part to Cyber Diva.",
+      "source": "2026–27 Music Resource Guide, p. 48"
+    },
+    {
+      "file": "Short Ride in a Fast Machine.mp3",
+      "start": 0,
+      "question": "What experience did John Adams associate with the idea for this orchestral fanfare?",
+      "choices": [
+        "Riding the New York subway",
+        "An unnerving ride in a Ferrari",
+        "Watching a train strain uphill",
+        "Crossing a harbor by lifeboat",
+        "A night flight during a blackout"
+      ],
+      "answer": 1,
+      "explanation": "The companion recounts Adams’s frightening sports-car ride with a relative.",
+      "source": "2026–27 Music Resource Guide, p. 51"
+    },
+    {
+      "file": "Short Ride in a Fast Machine.mp3",
+      "start": 38,
+      "question": "Which pitched metallic instrument becomes audible at this point?",
+      "choices": [
+        "Glockenspiel",
+        "Vibraphone",
+        "Tubular bells",
+        "Steel pan",
+        "Celesta"
+      ],
+      "answer": 0,
+      "explanation": "The guide identifies a glockenspiel at 0:38.",
+      "source": "2026–27 Music Resource Guide, p. 53"
+    },
+    {
+      "file": "Short Ride in a Fast Machine.mp3",
+      "start": 62,
+      "question": "At this gate or “gear shift,” what changes while the D–E–A ostinatos continue?",
+      "choices": [
+        "The harmony moves to E major",
+        "The ostinatos stop as the harmony moves to C minor",
+        "The woodblock drops out as the harmony moves to G major",
+        "The harmony moves to B-flat major",
+        "The harmony settles on D major"
+      ],
+      "answer": 3,
+      "explanation": "The guide places a sudden shift to B-flat major at 1:02 while D–E–A patterns continue.",
+      "source": "2026–27 Music Resource Guide, p. 53"
+    },
+    {
+      "file": "Short Ride in a Fast Machine.mp3",
+      "start": 151,
+      "question": "Which pairing marks the return of section A?",
+      "choices": [
+        "Timpani with a slow horn melody",
+        "High woodblock with solo soprano",
+        "Silent woodblock with three new brass melodies",
+        "Low woodblock with trombone glissandos",
+        "High woodblock with quick piccolo insertions"
+      ],
+      "answer": 4,
+      "explanation": "At 2:31 the high woodblock returns and piccolo insertions punctuate the texture.",
+      "source": "2026–27 Music Resource Guide, p. 53"
+    },
+    {
+      "file": "Short Ride in a Fast Machine.mp3",
+      "start": 175,
+      "question": "What happens to the pulse instrument as the three new melodies enter?",
+      "choices": [
+        "The woodblock returns at a higher pitch",
+        "The woodblock plays only on alternating beats",
+        "The woodblock stops",
+        "The woodblock doubles the timpani",
+        "The woodblock shifts into a soprano melody"
+      ],
+      "answer": 2,
+      "explanation": "The guide marks the woodblock’s stop at 2:55, when three lines appear together.",
+      "source": "2026–27 Music Resource Guide, p. 53"
+    },
+    {
+      "file": "O trenzinho do Caipira.mp3",
+      "start": 0,
+      "question": "What journey did Villa-Lobos intend this movement to depict?",
+      "choices": [
+        "A little steam train in São Paulo’s hinterland",
+        "An express train crossing the Alps",
+        "A ship approaching Rio de Janeiro",
+        "A New York subway journey",
+        "A night flight over Brazil"
+      ],
+      "answer": 0,
+      "explanation": "The companion cites the composer’s description of a little-train journey in the São Paulo hinterland.",
+      "source": "2026–27 Music Resource Guide, p. 57"
+    },
+    {
+      "file": "O trenzinho do Caipira.mp3",
+      "start": 7,
+      "question": "How is the first whistle effect produced?",
+      "choices": [
+        "Glissandos by horns and trombones",
+        "Trills by piccolo and oboe",
+        "An octave sounded by the piano",
+        "A sustained note in the trombone",
+        "Flutter-tonguing by flute and clarinet"
+      ],
+      "answer": 4,
+      "explanation": "The first whistle at 0:07 is assigned to flute and clarinet flutter-tongue.",
+      "source": "2026–27 Music Resource Guide, p. 59"
+    },
+    {
+      "file": "O trenzinho do Caipira.mp3",
+      "start": 28,
+      "question": "What instrumental motion represents the engine groaning here?",
+      "choices": [
+        "Rapid chromatic scales in the winds",
+        "A sustained trombone note",
+        "Upward brass glissandos",
+        "Pairs of short piano notes",
+        "Downward string glissandos"
+      ],
+      "answer": 2,
+      "explanation": "At 0:28 the guide marks the engine groan with upward sliding brass notes.",
+      "source": "2026–27 Music Resource Guide, p. 59"
+    },
+    {
+      "file": "O trenzinho do Caipira.mp3",
+      "start": 110,
+      "question": "How does the ensemble portray the train pushing over the hill crest?",
+      "choices": [
+        "A deep piano octave ends the motion",
+        "High winds and strings descend rapidly while lower parts ascend unevenly",
+        "Flute and oboe return to the calm lyrical theme",
+        "Winds sustain a quiet trill while the strings stop",
+        "Trombones play one long whistle note over silence"
+      ],
+      "answer": 1,
+      "explanation": "At 1:50 upper parts rush down chromatically against uneven ascents below.",
+      "source": "2026–27 Music Resource Guide, p. 59"
+    },
+    {
+      "file": "O trenzinho do Caipira.mp3",
+      "start": 220,
+      "question": "Which sound marks the train’s halt, just before the percussion suggests released steam?",
+      "choices": [
+        "A horn glissando",
+        "A sustained trombone whistle",
+        "A fortissimo full-ensemble chord",
+        "A deep piano octave",
+        "A piccolo-and-oboe trill"
+      ],
+      "answer": 3,
+      "explanation": "The stop is marked at 3:40 by a low piano octave; the steam follows at 3:41.",
+      "source": "2026–27 Music Resource Guide, p. 59"
+    },
+    {
+      "file": "Take the ‘A’ Train.mp3",
+      "start": 0,
+      "question": "Who composed the tune that became Duke Ellington’s new signature number?",
+      "choices": [
+        "Ray Nance",
+        "Duke Ellington",
+        "Billy Strayhorn",
+        "Fletcher Henderson",
+        "Don Redman"
+      ],
+      "answer": 2,
+      "explanation": "The companion identifies Strayhorn as the composer, while Ellington plays the recording’s piano introduction.",
+      "source": "2026–27 Music Resource Guide, p. 62"
+    },
+    {
+      "file": "Take the ‘A’ Train.mp3",
+      "start": 6,
+      "question": "How are the first chorus’s melody and background riffs divided among sections?",
+      "choices": [
+        "Saxophones and trumpets play the melody in unison without riffs",
+        "Muted trumpets carry the melody; saxophones supply riffs",
+        "Piano carries the melody; the brass sections remain silent",
+        "Trombones carry the melody; piano and drums supply riffs",
+        "Saxophones carry the melody; muted trumpet and trombone sections supply riffs"
+      ],
+      "answer": 4,
+      "explanation": "The guide assigns the rising saxophone melody and separate brass riffs to different choirs.",
+      "source": "2026–27 Music Resource Guide, p. 64"
+    },
+    {
+      "file": "Take the ‘A’ Train.mp3",
+      "start": 51,
+      "question": "Which trumpeter takes the second-chorus improvisation in this recording?",
+      "choices": [
+        "Duke Ellington",
+        "Ray Nance",
+        "Don Redman",
+        "Rex Stewart",
+        "Billy Strayhorn"
+      ],
+      "answer": 1,
+      "explanation": "Rex Stewart was originally expected, but Ray Nance plays the recorded solo.",
+      "source": "2026–27 Music Resource Guide, p. 63"
+    },
+    {
+      "file": "Take the ‘A’ Train.mp3",
+      "start": 96,
+      "question": "What combination occurs in the transition just before the third chorus?",
+      "choices": [
+        "C major shifts to G major with no accent change",
+        "The harmony stays in C while the piano repeats a whole-tone riff",
+        "C major shifts to A-flat major with a ritardando",
+        "C major shifts to E-flat major with a hemiola effect",
+        "E-flat major shifts to C major with a straight four-beat emphasis"
+      ],
+      "answer": 3,
+      "explanation": "At 1:36 the guide notes a C-to-E-flat modulation and accents that briefly imply triple meter.",
+      "source": "2026–27 Music Resource Guide, p. 64"
+    },
+    {
+      "file": "Take the ‘A’ Train.mp3",
+      "start": 104,
+      "question": "Who answers the ascending saxophone idea in the third chorus?",
+      "choices": [
+        "An unmuted trumpet",
+        "A wordless vocalist",
+        "A clarinet section",
+        "A muted trombone",
+        "The piano alone"
+      ],
+      "answer": 0,
+      "explanation": "The call-and-response passage begins with saxophones and is answered by an unmuted trumpet.",
+      "source": "2026–27 Music Resource Guide, p. 64"
+    },
+    {
+      "file": "The Padstow Lifeboat.mp3",
+      "start": 0,
+      "question": "What occasion prompted Arnold to compose this march?",
+      "choices": [
+        "The premiere of a new opera house",
+        "A victory parade for the Royal Navy",
+        "The opening of a railway station",
+        "A tribute to a retired lighthouse keeper",
+        "The inauguration of a lifeboat and its new station"
+      ],
+      "answer": 4,
+      "explanation": "The companion describes a commission tied to the Padstow lifeboat and station inauguration.",
+      "source": "2026–27 Music Resource Guide, p. 67"
+    },
+    {
+      "file": "The Padstow Lifeboat.mp3",
+      "start": 2,
+      "question": "Which pitch does the repeated foghorn blast insist on despite the march’s A-flat-major tonic?",
+      "choices": [
+        "D",
+        "G",
+        "E-flat",
+        "C",
+        "A-flat"
+      ],
+      "answer": 0,
+      "explanation": "The companion says Arnold fixed the foghorn at D even though that pitch lies outside the tonic key.",
+      "source": "2026–27 Music Resource Guide, p. 68"
+    },
+    {
+      "file": "The Padstow Lifeboat.mp3",
+      "start": 105,
+      "question": "What new layer distinguishes the second statement of the lyrical B strain?",
+      "choices": [
+        "A solo trumpet replaces the low brass",
+        "A high-wind countermelody above the low brass",
+        "The music changes into the break strain",
+        "The foghorn becomes the principal melody",
+        "The high winds play only rests"
+      ],
+      "answer": 1,
+      "explanation": "At 1:45 the low-brass tune returns with a countermelody in high winds.",
+      "source": "2026–27 Music Resource Guide, p. 69"
+    },
+    {
+      "file": "The Padstow Lifeboat.mp3",
+      "start": 141,
+      "question": "Which details give this C strain its stormy, “dog-fight” quality?",
+      "choices": [
+        "Whole-tone piano cascades with muted trumpets",
+        "A steady unaccompanied snare pattern",
+        "Chromatic wind scales with rolling cymbals",
+        "Conjunct low-brass melody with quiet piano",
+        "Wordless voices over arpeggiated guitar"
+      ],
+      "answer": 2,
+      "explanation": "The break strain at 2:21 combines fortissimo brass, chromatic winds, and cymbal rolls.",
+      "source": "2026–27 Music Resource Guide, p. 69"
+    },
+    {
+      "file": "The Padstow Lifeboat.mp3",
+      "start": 216,
+      "question": "What happens to the B melody in this coda?",
+      "choices": [
+        "It becomes the C break strain in the woodwinds",
+        "It reappears quietly in low brass without a countermelody",
+        "It is replaced by the foghorn alone",
+        "It returns grandioso in brass with a busy woodwind countermelody",
+        "It is played only as a percussion ostinato"
+      ],
+      "answer": 3,
+      "explanation": "At 3:36 the B strain has its third appearance in a grandioso coda.",
+      "source": "2026–27 Music Resource Guide, p. 69"
+    },
+    {
+      "file": "Wanderlied.mp3",
+      "start": 0,
+      "question": "Whose poem does Fanny Mendelssohn Hensel set in this Lied?",
+      "choices": [
+        "Felix Mendelssohn",
+        "Johann Wolfgang von Goethe",
+        "Charles Ives",
+        "Franz Schubert",
+        "Harry Dacre"
+      ],
+      "answer": 1,
+      "explanation": "The companion names Goethe as the writer of the poem.",
+      "source": "2026–27 Music Resource Guide, p. 77"
+    },
+    {
+      "file": "Wanderlied.mp3",
+      "start": 12,
+      "question": "Which device extends the repeated comparison to a song near the end of this passage?",
+      "choices": [
+        "A bassoon countermelody",
+        "An abrupt orchestral stop",
+        "A longer melisma on “wie”",
+        "A spoken repetition of the line",
+        "A new piano-only interlude"
+      ],
+      "answer": 2,
+      "explanation": "The guide marks a brief rising sequence followed by an extended melisma on the final “wie.”",
+      "source": "2026–27 Music Resource Guide, p. 80"
+    },
+    {
+      "file": "Wanderlied.mp3",
+      "start": 39,
+      "question": "Which word receives the especially long melisma when the line about one’s life being an achievement returns?",
+      "choices": [
+        "“sei” (be)",
+        "“That” (deed)",
+        "“Leben” (life)",
+        "“Liebe” (love)",
+        "“Streben” (striving)"
+      ],
+      "answer": 0,
+      "explanation": "In the repeated verse-1 line, the singer prolongs “sei” rather than the earlier “That.”",
+      "source": "2026–27 Music Resource Guide, p. 80"
+    },
+    {
+      "file": "Wanderlied.mp3",
+      "start": 89,
+      "question": "Which word bears the corresponding long melisma in verse 2?",
+      "choices": [
+        "“Sonne” (sun)",
+        "“Boden” (ground)",
+        "“gross” (vast)",
+        "“Freude” (joy)",
+        "“Welt” (world)"
+      ],
+      "answer": 4,
+      "explanation": "Because the melody recurs strophically, the long melisma falls on “Welt” in verse 2.",
+      "source": "2026–27 Music Resource Guide, p. 80"
+    },
+    {
+      "file": "Wanderlied.mp3",
+      "start": 98,
+      "question": "What is the direction of the piano line in the coda?",
+      "choices": [
+        "A repeated single pitch",
+        "Alternating upward leaps",
+        "A final rising arpeggio",
+        "A long descent",
+        "A long ascent"
+      ],
+      "answer": 3,
+      "explanation": "The guide marks a long piano descent beginning at 1:38.",
+      "source": "2026–27 Music Resource Guide, p. 80"
+    },
+    {
+      "file": "Born To Be Wild.mp3",
+      "start": 0,
+      "question": "Who wrote “Born to Be Wild,” according to the listening guide?",
+      "choices": [
+        "Peter Byford",
+        "Mars Bonfire (Dennis Edmonton)",
+        "Malcolm Arnold",
+        "John Kay",
+        "Graham Oliver"
+      ],
+      "answer": 1,
+      "explanation": "The guide credits Mars Bonfire, also known as Dennis Edmonton.",
+      "source": "2026–27 Music Resource Guide, p. 85"
+    },
+    {
+      "file": "Born To Be Wild.mp3",
+      "start": 14,
+      "question": "What produces the response to the lead voice in the first verse?",
+      "choices": [
+        "Rhythm guitar and percussion",
+        "Drums and bass guitar",
+        "Guitar and electric organ",
+        "Lead guitar and bass guitar",
+        "Electric organ and backing voices"
+      ],
+      "answer": 2,
+      "explanation": "At 0:14 the guide identifies call-and-response between the voice and guitar/electric organ.",
+      "source": "2026–27 Music Resource Guide, p. 85"
+    },
+    {
+      "file": "Born To Be Wild.mp3",
+      "start": 27,
+      "question": "Which chord sequence underlies this first pre-chorus?",
+      "choices": [
+        "E-flat–G-flat–A-flat",
+        "D-flat–E-flat–G-flat",
+        "G-flat–E-flat–D-flat",
+        "A-flat–E-flat–D-flat",
+        "G-flat–A-flat–E-flat"
+      ],
+      "answer": 4,
+      "explanation": "The companion marks a repeating G-flat–A-flat–E-flat sequence beginning at 0:27.",
+      "source": "2026–27 Music Resource Guide, p. 85"
+    },
+    {
+      "file": "Born To Be Wild.mp3",
+      "start": 94,
+      "question": "What formal material is revisited without sung text in this instrumental stretch?",
+      "choices": [
+        "The outro followed by a verse",
+        "Only the chorus refrain",
+        "Two consecutive pre-choruses",
+        "A verse and a chorus",
+        "The introduction alone"
+      ],
+      "answer": 3,
+      "explanation": "The guide describes the 1:34 instrumental span as a textless verse and chorus.",
+      "source": "2026–27 Music Resource Guide, p. 85"
+    },
+    {
+      "file": "Born To Be Wild.mp3",
+      "start": 127,
+      "question": "What brief event separates the instrumental stretch from the repeated first verse?",
+      "choices": [
+        "A drum solo",
+        "A guitar cadenza",
+        "A new vocal bridge",
+        "An organ countermelody",
+        "A sustained bass note"
+      ],
+      "answer": 0,
+      "explanation": "A brief drum solo begins at 2:07 and the repeated first verse enters at 2:10.",
+      "source": "2026–27 Music Resource Guide, p. 85"
+    },
+    {
+      "file": "Fast Car.mp3",
+      "start": 0,
+      "question": "Which instrument gives the 1988 studio recording a timbre often associated with country music?",
+      "choices": [
+        "Pedal steel guitar",
+        "Mandolin",
+        "Harmonica",
+        "Banjo",
+        "Dobro"
+      ],
+      "answer": 0,
+      "explanation": "The companion lists pedal steel guitar among the recording’s additional instruments.",
+      "source": "2026–27 Music Resource Guide, p. 91"
+    },
+    {
+      "file": "Fast Car.mp3",
+      "start": 103,
+      "question": "What is reused to make this hook rather than a contrasting bridge?",
+      "choices": [
+        "Only the instrumental introduction",
+        "The chorus’s final phrase",
+        "An entirely new melody",
+        "The second half of the chorus melody",
+        "The first half of the verse melody"
+      ],
+      "answer": 4,
+      "explanation": "The companion describes the hook at 1:43 as a reuse of the verse’s first melodic half.",
+      "source": "2026–27 Music Resource Guide, p. 90"
+    },
+    {
+      "file": "Fast Car.mp3",
+      "start": 120,
+      "question": "Which combination distinguishes the chorus from the verses?",
+      "choices": [
+        "Spoken narration and a steady march rhythm",
+        "Past-tense recollection and slower, less regular harmonic changes",
+        "Past-tense text with no harmonic accompaniment",
+        "Present-tense plans and the unchanged four-chord rhythm",
+        "Wordless singing and a new instrumental bridge"
+      ],
+      "answer": 1,
+      "explanation": "The guide places the shift to remembered past events and simpler, slower-changing chords at 2:00.",
+      "source": "2026–27 Music Resource Guide, p. 91"
+    },
+    {
+      "file": "Fast Car.mp3",
+      "start": 266,
+      "question": "What changes in the final return of the hook?",
+      "choices": [
+        "A new narrator takes over in third person",
+        "The words are replaced by a wordless vocalise",
+        "The entire hook is delivered in past tense",
+        "The appeal to “we” becomes an ultimatum addressed to “you”",
+        "“You” changes to “we” as the couple reconciles"
+      ],
+      "answer": 3,
+      "explanation": "The 4:26 hook changes pronouns, directing the decision toward the partner.",
+      "source": "2026–27 Music Resource Guide, p. 93"
+    },
+    {
+      "file": "Fast Car.mp3",
+      "start": 276,
+      "question": "How does the coda treat the accompaniment heard throughout the song?",
+      "choices": [
+        "The chords are replaced by a brass fanfare",
+        "The accompaniment ends abruptly before a spoken line",
+        "The same four-chord cycle repeats under a diminuendo",
+        "It switches to a twelve-bar blues as the dynamics rise",
+        "The guitar stops for a drum solo"
+      ],
+      "answer": 2,
+      "explanation": "The guide marks a fading coda over further repetitions of the four-chord progression.",
+      "source": "2026–27 Music Resource Guide, p. 93"
+    },
+    {
+      "file": "Titanic.mp3",
+      "start": 0,
+      "question": "Who composed these three linked numbers from the musical Titanic?",
+      "choices": [
+        "Alexander Courage",
+        "Hector Berlioz",
+        "Aaron Copland",
+        "Maury Yeston",
+        "John Adams"
+      ],
+      "answer": 3,
+      "explanation": "The companion credits Maury Yeston with the selection.",
+      "source": "2026–27 Music Resource Guide, p. 98"
+    },
+    {
+      "file": "Titanic.mp3",
+      "start": 18,
+      "question": "How does the second a phrase change the key of “There She Is”?",
+      "choices": [
+        "It falls from G major to F major",
+        "It rises from F major to G major",
+        "It shifts from F major to F minor",
+        "It remains in F major with only a new rhythm",
+        "It rises from F major to A-flat major"
+      ],
+      "answer": 1,
+      "explanation": "The companion and guide specify a whole-step transposition from F to G for the second a phrase.",
+      "source": "2026–27 Music Resource Guide, p. 98"
+    },
+    {
+      "file": "Titanic.mp3",
+      "start": 80,
+      "question": "What cargo does the first stevedore announce as “Loading Inventory” begins?",
+      "choices": [
+        "40 tons of potatoes",
+        "42,000 eggs",
+        "55,000 china dishes",
+        "36,000 oranges",
+        "7,000 heads of lettuce"
+      ],
+      "answer": 4,
+      "explanation": "The first cargo call at 1:20 concerns lettuce; the other amounts occur later.",
+      "source": "2026–27 Music Resource Guide, p. 100"
+    },
+    {
+      "file": "Titanic.mp3",
+      "start": 194,
+      "question": "Which of the three men starts the marchlike dialogue in “The Largest Moving Object”?",
+      "choices": [
+        "Second Officer Lightoller",
+        "Thomas Andrews",
+        "J. Bruce Ismay",
+        "Captain Edward Smith",
+        "Stevedore Pitman"
+      ],
+      "answer": 2,
+      "explanation": "Ismay addresses Captain Smith at the start of this segment, 3:14.",
+      "source": "2026–27 Music Resource Guide, p. 102"
+    },
+    {
+      "file": "Titanic.mp3",
+      "start": 227,
+      "question": "How does the closing phrase differ from the earlier overlapping lines of the trio?",
+      "choices": [
+        "The three voices move to a slower unison",
+        "The voices alternate short solo questions",
+        "Each voice keeps a separate imitative line",
+        "Only Ismay remains while the orchestra stops",
+        "The crew chorus replaces the trio"
+      ],
+      "answer": 0,
+      "explanation": "The earlier lines briefly imitate one another, but at 3:47 the three sing together in ritardando.",
+      "source": "2026–27 Music Resource Guide, p. 102"
+    },
+    {
+      "file": "Star Trek.mp3",
+      "start": 0,
+      "question": "Why did the producers replace the original wordless soprano in later seasons?",
+      "choices": [
+        "Roddenberry demanded a fully electronic score",
+        "To avoid continuing rerun payments tied to her singers’ union",
+        "The theme was replaced by the second pilot’s brass cue",
+        "The orchestra could not match her original pitch",
+        "The soprano had sung copyrighted lyrics by mistake"
+      ],
+      "answer": 1,
+      "explanation": "The companion explains that Norman belonged to SAG, whose rerun fees differed from the instrumentalists’ AFM terms.",
+      "source": "2026–27 Music Resource Guide, p. 107"
+    },
+    {
+      "file": "Star Trek.mp3",
+      "start": 6,
+      "question": "What intervallic idea distinguishes the horns’ first Enterprise fanfare from the descending Space Theme?",
+      "choices": [
+        "Two rising fourths",
+        "Repeated minor seconds",
+        "A falling whole-tone scale",
+        "Two descending fourths",
+        "A rising octave followed by a sixth"
+      ],
+      "answer": 0,
+      "explanation": "The fanfare enters at 0:06 with successive upward fourths in French horns.",
+      "source": "2026–27 Music Resource Guide, p. 110"
+    },
+    {
+      "file": "Star Trek.mp3",
+      "start": 15,
+      "question": "How is the fanfare transformed at its second entry?",
+      "choices": [
+        "Horns repeat it at double speed",
+        "Flutes invert it into a descending line",
+        "The harp plays it as a single sustained chord",
+        "Trumpets take it in broader note values",
+        "A soprano sings it without words"
+      ],
+      "answer": 3,
+      "explanation": "At 0:15 trumpets take the second phrase with broader rhythms than the horn statement.",
+      "source": "2026–27 Music Resource Guide, p. 110"
+    },
+    {
+      "file": "Star Trek.mp3",
+      "start": 31,
+      "question": "Which feature marks the soprano’s first Beguine phrase?",
+      "choices": [
+        "A downward perfect fourth followed by silence",
+        "An upward octave leap followed by a chromatic scale",
+        "A descending minor sixth followed by a drum break",
+        "Repeated notes followed by a brass fanfare",
+        "An upward minor-seventh leap followed by stepwise descent"
+      ],
+      "answer": 4,
+      "explanation": "The first wordless soprano phrase at 0:31 opens with a minor seventh; the later repetition leaps an octave.",
+      "source": "2026–27 Music Resource Guide, p. 110"
+    },
+    {
+      "file": "Star Trek.mp3",
+      "start": 43,
+      "question": "What harmonic route begins during this rising Beguine phrase?",
+      "choices": [
+        "Chord roots move D–C–B-flat–A–G",
+        "Chord roots alternate only D and G",
+        "Chord roots move D–G–C–F–B-flat",
+        "Chord roots stay on D through the phrase",
+        "Chord roots move D–A–E–B–F-sharp"
+      ],
+      "answer": 2,
+      "explanation": "The companion traces the circle-of-fifths motion counterclockwise through D, G, C, F, and B-flat.",
+      "source": "2026–27 Music Resource Guide, p. 109"
+    },
+    {
+      "file": "March To The Scaffold.mp3",
+      "start": 0,
+      "question": "What earlier, unrealized project supplied the original version of this march?",
+      "choices": [
+        "A military parade commissioned in 1830",
+        "A “March of the Guards” for an unperformed opera",
+        "A ballet about the American frontier",
+        "A funeral service for Harriet Smithson",
+        "A piano étude later orchestrated"
+      ],
+      "answer": 1,
+      "explanation": "The companion traces the movement to a 1826 march for an opera Berlioz could not get performed.",
+      "source": "2026–27 Music Resource Guide, p. 119"
+    },
+    {
+      "file": "March To The Scaffold.mp3",
+      "start": 27,
+      "question": "What combination introduces Theme 1 after the crescendo?",
+      "choices": [
+        "Horns play short-long chords in unison",
+        "Low strings ascend in B-flat major",
+        "Woodwinds trade a fortissimo call and response",
+        "Low strings descend together in G minor",
+        "Violins play a light pizzicato inversion"
+      ],
+      "answer": 3,
+      "explanation": "The guide marks a descending, monophonic low-string melody in G minor at 0:27.",
+      "source": "2026–27 Music Resource Guide, p. 120"
+    },
+    {
+      "file": "March To The Scaffold.mp3",
+      "start": 100,
+      "question": "How does Theme 2 depart from the first theme’s funeral-march mood?",
+      "choices": [
+        "Solo clarinet recalls the idée fixe",
+        "Upper strings invert Theme 1 in pizzicato",
+        "Low strings repeat the G-minor descent more quietly",
+        "Timpani sustain soft sextuplets without melody",
+        "Winds and brass assert a major-mode, dotted figure in B-flat"
+      ],
+      "answer": 4,
+      "explanation": "The second theme enters at 1:40 in B-flat major with animated winds and brass.",
+      "source": "2026–27 Music Resource Guide, p. 120"
+    },
+    {
+      "file": "March To The Scaffold.mp3",
+      "start": 264,
+      "question": "What does the quiet solo clarinet recall just before the execution?",
+      "choices": [
+        "The major-mode crowd theme",
+        "The opening timpani sextuplet",
+        "The idée fixe associated with the Beloved",
+        "The first theme’s bassoon countermelody",
+        "The four-note horn response from the introduction"
+      ],
+      "answer": 2,
+      "explanation": "The clarinet briefly states the recurring idée fixe at 4:24.",
+      "source": "2026–27 Music Resource Guide, p. 121"
+    },
+    {
+      "file": "March To The Scaffold.mp3",
+      "start": 275,
+      "question": "What do the quiet descending pizzicato notes immediately after the loud chord depict?",
+      "choices": [
+        "The condemned figure’s head falling",
+        "The Beloved walking away",
+        "The crowd beginning its celebration",
+        "The drummer muffling the timpani",
+        "The march restarting at the beginning"
+      ],
+      "answer": 0,
+      "explanation": "After the guillotine chord at 4:35, the quiet string notes portray the head’s fall.",
+      "source": "2026–27 Music Resource Guide, p. 121"
+    },
+    {
+      "file": "Charlie Rutlage.mp3",
+      "start": 0,
+      "question": "Which earlier folk melody did the poem’s writer intend “Charlie Rutlage” to fit?",
+      "choices": [
+        "A military march in G minor",
+        "A traditional jazz blues",
+        "The melody of “Daisy Bell”",
+        "“The Lakes of Pontchartrain”",
+        "The tune Ives invented for the piano ostinato"
+      ],
+      "answer": 3,
+      "explanation": "The companion says O’Malley wrote his poem to fit “The Lakes of Pontchartrain,” although later versions varied.",
+      "source": "2026–27 Music Resource Guide, p. 125"
+    },
+    {
+      "file": "Charlie Rutlage.mp3",
+      "start": 57,
+      "question": "How does the vocalist’s delivery change as the narrative section begins?",
+      "choices": [
+        "It moves from spoken rhythm to a long melisma",
+        "It moves from half-spoken to spoken rhythm",
+        "It shifts entirely to unison with the pianist",
+        "It becomes a wordless soprano line",
+        "It turns into a four-voice chorus"
+      ],
+      "answer": 1,
+      "explanation": "The guide notes half-spoken delivery at 0:57 and rhythmic speech soon after.",
+      "source": "2026–27 Music Resource Guide, p. 127"
+    },
+    {
+      "file": "Charlie Rutlage.mp3",
+      "start": 67,
+      "question": "What extra task does Ives assign to the pianist behind the narration?",
+      "choices": [
+        "Whistling the opening melody",
+        "Playing a second piano part",
+        "Singing cowboy-like shouts",
+        "Switching to a drum ostinato",
+        "Reciting the whole poem in unison"
+      ],
+      "answer": 2,
+      "explanation": "At 1:07 the pianist is asked to add cowboy shouts behind the singer.",
+      "source": "2026–27 Music Resource Guide, p. 127"
+    },
+    {
+      "file": "Charlie Rutlage.mp3",
+      "start": 96,
+      "question": "How does Ives render the horse’s fall in the piano part?",
+      "choices": [
+        "A single soft chord held by pedal",
+        "Alternating tonic and dominant bass notes",
+        "Quiet broken chords in the high register",
+        "A smooth legato descent without accents",
+        "Fortississimo tone clusters struck with fists"
+      ],
+      "answer": 4,
+      "explanation": "The companion and guide describe extremely loud cluster chords, played with fists at 1:36.",
+      "source": "2026–27 Music Resource Guide, p. 127"
+    },
+    {
+      "file": "Charlie Rutlage.mp3",
+      "start": 150,
+      "question": "How does the final chant move away from its repeated F pitch?",
+      "choices": [
+        "It moves to two G notes, then returns to F",
+        "It rises through G and A to B-flat",
+        "It falls through E and D to C",
+        "It stays on F until an abrupt stop",
+        "It moves to a long G, then ends on A"
+      ],
+      "answer": 0,
+      "explanation": "The guide marks the chant on F, then two G pitches and a final F under a ritardando.",
+      "source": "2026–27 Music Resource Guide, p. 127"
+    },
+    {
+      "file": "Bus Plunge.mp3",
+      "start": 0,
+      "question": "What term does the companion use for the two interlocking vocal ostinatos?",
+      "choices": [
+        "Canon",
+        "Block voicing",
+        "Recitative",
+        "Hemiola",
+        "Hocket"
+      ],
+      "answer": 4,
+      "explanation": "The background singers alternate quick fragments rather than sounding them together: a hocket.",
+      "source": "2026–27 Music Resource Guide, p. 130"
+    },
+    {
+      "file": "Bus Plunge.mp3",
+      "start": 13,
+      "question": "What relationship holds between the bass melody and the background pattern in verse 1?",
+      "choices": [
+        "Spoken bass narration over silence",
+        "One bass singing alone while the other voices rest",
+        "Unison bass melody over the continuing hocket ostinato",
+        "Four-part harmony with no repeated pattern",
+        "Harmonized bass melody after the ostinato stops"
+      ],
+      "answer": 2,
+      "explanation": "At 0:13 the basses sing a syncopated unison line above the ongoing hocket.",
+      "source": "2026–27 Music Resource Guide, p. 131"
+    },
+    {
+      "file": "Bus Plunge.mp3",
+      "start": 56,
+      "question": "What changes when the first chorus begins?",
+      "choices": [
+        "The hocket doubles in speed under speech",
+        "The two basses trade spoken lines without the others",
+        "The hocket continues under a solo bass",
+        "The hocket breaks and all four voices harmonize",
+        "One vocalist sustains a drone while three whistle"
+      ],
+      "answer": 3,
+      "explanation": "The guide contrasts the ostinato-driven verses with four-part chorus harmony at 0:56.",
+      "source": "2026–27 Music Resource Guide, p. 132"
+    },
+    {
+      "file": "Bus Plunge.mp3",
+      "start": 120,
+      "question": "How does the coda complicate the familiar verse-and-ostinato texture?",
+      "choices": [
+        "A new instrumental solo replaces the voices",
+        "Pep-talk fragments and quiet screams interrupt it",
+        "All four singers sustain one note without interruption",
+        "A brass band takes over the ostinato",
+        "The song turns into a slow three-beat waltz"
+      ],
+      "answer": 1,
+      "explanation": "Around 2:00 the coda interleaves verse material, the ostinato, pep talk, and scream-like sounds.",
+      "source": "2026–27 Music Resource Guide, p. 134"
+    },
+    {
+      "file": "Bus Plunge.mp3",
+      "start": 138,
+      "question": "What vocal texture returns on the title phrase near the ending?",
+      "choices": [
+        "All four voices in harmony",
+        "A solo falsetto without accompaniment",
+        "A single spoken bass voice",
+        "Unison basses over ostinato",
+        "Two background voices alone in hocket"
+      ],
+      "answer": 0,
+      "explanation": "The guide places all four voices in harmony at 2:18.",
+      "source": "2026–27 Music Resource Guide, p. 134"
+    },
+    {
+      "file": "747.mp3",
+      "start": 0,
+      "question": "Which detail in the song differs from the real Scandinavian Airlines flight described in the companion?",
+      "choices": [
+        "The actual aircraft was a 747 in 1965",
+        "The actual plane crashed during the blackout",
+        "The actual flight left from London, not Hawaii",
+        "The actual flight was 911, not 101",
+        "The actual blackout took place in 1980"
+      ],
+      "answer": 3,
+      "explanation": "The companion notes that the flight number was 911, while the lyrics say 101.",
+      "source": "2026–27 Music Resource Guide, p. 137"
+    },
+    {
+      "file": "747.mp3",
+      "start": 43,
+      "question": "How is the radio-operator line made to sound like three singers when Saxon has one lead vocalist?",
+      "choices": [
+        "By turning the guitar riff into a vocal sample",
+        "By overdubbing three recorded vocal parts",
+        "By having the bassist and drummer sing in unison",
+        "By adding three guest singers",
+        "By recording a live choir with the band"
+      ],
+      "answer": 1,
+      "explanation": "The guide marks three-part harmony at 0:43; the companion explains Byford’s multitracking.",
+      "source": "2026–27 Music Resource Guide, p. 138"
+    },
+    {
+      "file": "747.mp3",
+      "start": 64,
+      "question": "Which layering characterizes the first chorus?",
+      "choices": [
+        "Overdubbed vocal unison, guitar arpeggio, descending bass",
+        "Wordless choir, brass fanfare, chromatic bass",
+        "Three-part vocal harmony, muted guitar, ascending bass",
+        "Spoken voice, rhythm-guitar riff, absent bass",
+        "Solo voice, sustained organ, steady bass pitch"
+      ],
+      "answer": 0,
+      "explanation": "At 1:04 the guide distinguishes the unison chorus from the earlier three-part harmony.",
+      "source": "2026–27 Music Resource Guide, p. 139"
+    },
+    {
+      "file": "747.mp3",
+      "start": 152,
+      "question": "Who takes the instrumental guitar break here, rather than the later coda solo?",
+      "choices": [
+        "Paul Quinn",
+        "Peter Byford",
+        "Graham Oliver",
+        "Steven Dawson",
+        "Peter Gill"
+      ],
+      "answer": 2,
+      "explanation": "The guide credits Graham Oliver at 2:32 and Paul Quinn with the coda guitar solo.",
+      "source": "2026–27 Music Resource Guide, p. 139"
+    },
+    {
+      "file": "747.mp3",
+      "start": 226,
+      "question": "What sound is added behind the doubled voice in this bridge?",
+      "choices": [
+        "Cockpit radio static",
+        "Runway warning tones",
+        "A propeller drone",
+        "Crowd noise",
+        "Jet sounds"
+      ],
+      "answer": 4,
+      "explanation": "The bridge at 3:46 layers jet effects behind the doubled vocal.",
+      "source": "2026–27 Music Resource Guide, p. 140"
+    }
+  ]
+}
