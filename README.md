@@ -1,11 +1,11 @@
 # music id trainer
 
-small, open-source, offline Windows app for practicing acadec music. load your own recordings, then practice in either mode:
+small, open-source, offline Windows app for practicing acadec music. load ur own recordings, then practice in either mode:
 
 - **identify pieces:** hear an excerpt from a random recording and name the piece.
 - **listening guide:** hear an excerpt at a question's timestamp, then answer a multiple-choice question from a JSON pack.
 
-choose the clip length, replay a clip, and see your score. The app needs no login or internet connection and does not include recordings.
+choose the clip length, replay a clip, and see your score. no login or internet connection required hehe
 
 ## download and play
 
@@ -13,13 +13,17 @@ open **Releases** on this repository's GitHub page and download **mIDtdark.exe**
 
 download [qpack.json](qpack.json) from the repository, or use your own question pack. run either app, load the [MP3 recordings](https://drive.google.com/drive/u/0/folders/1F3jt0fHNH3tIe5bMJ4hF5EjAPXcarFNQ) (request access and i will grant you), and then load the question pack for **listening guide** mode. select the MP3s whose filenames match the `file` entries in your question pack. the included pack has 70 questions covering 14 pieces from the 2026–27 listening guides; you can use **identify pieces** without any pack. recordings are supplied by the user and stay on their computer.
 
-if Windows warns about an unrecognized app, thats cuz these community builds have not been code signed. the source for each executable is below.
+if Windows warns about an unrecognized app, thats cuz these community builds have not been code signed. the source for each executable is below. if you for some reason cannot download the files, try the [web version](https://drive.google.com/drive/u/0/folders/1_D7seUYNzQsv89nLyTEZZl_4Q8h4wbJX). 
 
+
+# hi
+
+i did acadec in 2025-2026 at phs and this is my way of giving back. i loved the program so much more than i ever thought i would and i hope this can be of use. ofc its open source so you can use it for literally whatever you want but yeah..
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## source and rebuilding
+# source and rebuilding
 
 the `dark/` and `light/` folders contain the complete C# source for each theme. the project uses Windows Forms for the interface and Windows media APIs for audio, without a browser engine or external NuGet packages. the dark version embeds `dark/Assets/companion.gif` in its executable.
 
@@ -34,6 +38,4 @@ The resulting programs are `dist/dark/mIDtdark.exe` and `dist/light/mIDtlight.ex
 
 ## question pack format
 
-The app reads a version 1 JSON object with `format`, `version`, `title`, and `cards`. Every card contains a recording `file` (including `.mp3`), a `start` time in seconds, `question`, five `choices`, a zero-based `answer` index, and an `explanation`. See [qpack.json](qpack.json) for complete examples. Only recordings with matching filenames are included in listening-guide practice.
-
-No MP3s or official resource-guide PDFs are included in this repository.
+app reads a version 1 JSON object with `format`, `version`, `title`, and `cards`. every card contains a recording `file` (including `.mp3`), a `start` time in seconds, `question`, five `choices`, a zero-based `answer` index, and an `explanation`. see [qpack.json](qpack.json) for complete examples. remember only recordings with matching filenames are included in listening-guide practice!
