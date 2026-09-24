@@ -9,23 +9,22 @@ choose the clip length, replay a clip, and see your score. no login or internet 
 
 ## download and play
 
-open **Releases** on this repository's GitHub page and download **mIDtdark.exe** (maroon with twilight sparkle) or **mIDtlight.exe** (original Windows theme). theyre separate, single-file Windows x64 apps. you do not need to install .NET.
+open **Releases** on this repository's GitHub page and download **mIDtdark.exe** (maroon with twilight sparkle) or **mIDtlight.exe** (original Windows theme). theyre separate, single-file Windows x64 apps. you do not need to install anything else
 
-download [qpack.json](qpack.json) from the repository, or use your own question pack. run either app, load the [MP3 recordings](https://drive.google.com/drive/u/0/folders/1F3jt0fHNH3tIe5bMJ4hF5EjAPXcarFNQ) (request access and i will grant you), and then load the question pack for **listening guide** mode. select the MP3s whose filenames match the `file` entries in your question pack. the included pack has 70 questions covering 14 pieces from the 2026–27 listening guides; you can use **identify pieces** without any pack. recordings are supplied by the user and stay on their computer.
+download [qpack.json](qpack.json) from the repository, or use your own question pack. run either app, load the [MP3 recordings](https://drive.google.com/drive/u/0/folders/1F3jt0fHNH3tIe5bMJ4hF5EjAPXcarFNQ) (request access and i will grant you), and then load the question pack for **listening guide** mode. the included pack has 70 questions painstakingly made covering the 14 pieces from the 2026–27 usad listening guides; you can use the **identify pieces** mode without any pack. recordings are supplied by the user and everything is local.
 
 if Windows warns about an unrecognized app, thats cuz these community builds have not been code signed. the source for each executable is below. if you for some reason cannot download the files, try the [web version](https://drive.google.com/drive/u/0/folders/1_D7seUYNzQsv89nLyTEZZl_4Q8h4wbJX). 
 
 
 # hi
 
-i did acadec in 2025-2026 at phs and this is my way of giving back. i loved the program so much more than i ever thought i would and i hope this can be of use. ofc its open source so you can use it for literally whatever you want but yeah..
+i did acadec in 2025-2026 at phs and this is my way of giving back. i loved the program so much more than i ever thought i would and i hope this can be of use. i've been working on this slowly for a few months on-and-off after i had the idea in february. ofc its open source so you can use it for literally whatever you want but yeah..
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # source and rebuilding
 
-the `dark/` and `light/` folders contain the complete C# source for each theme. the project uses Windows Forms for the interface and Windows media APIs for audio, without a browser engine or external NuGet packages. the dark version embeds `dark/Assets/companion.gif` in its executable.
+the `dark/` and `light/` folders contain the complete C# source for each theme. the project uses Windows Forms for the interface and Windows media APIs for audio. the dark version has twilight sparkle `dark/Assets/companion.gif` in its executable.
 
 Install the [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) on Windows. In PowerShell, run these commands from the repository's root:
 
